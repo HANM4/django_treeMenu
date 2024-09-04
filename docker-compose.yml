@@ -17,6 +17,7 @@ services:
             - "./data/static:/app/static"
             - "./djangoTreeMenu/djangoTreeMenu:/app/djangoTreeMenu" # для прода убрать
             - "./djangoTreeMenu/treeMenu:/app/treeMenu" # для прода убрать
+            - "./djangoTreeMenu/templates:/app/templates" # для прода убрать
             - "./data/media:/media"
 
 
