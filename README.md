@@ -5,6 +5,6 @@
 3. open browser `http://localhost:8080/`
 
 ## Login Admin django project
-open browser `http://localhost:8080/`
+open browser `http://localhost:8080/admin`
 * password:`admin`
 * login:`admin`
